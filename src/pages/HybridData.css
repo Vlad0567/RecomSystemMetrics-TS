@@ -1,0 +1,28 @@
+.HybridData {
+    padding: 2rem;
+    text-align: center;
+}
+
+.HybridData h1 {
+    margin-bottom: 2rem;
+}
+
+.HybridData h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.HybridData h3 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.table-metric {
+    margin-bottom: 2rem;
+}
+
+.button-section {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
