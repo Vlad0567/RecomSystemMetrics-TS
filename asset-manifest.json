@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RecomSystemMetrics-TS/static/css/main.82e818c1.css",
+    "main.js": "/RecomSystemMetrics-TS/static/js/main.5d325811.js",
+    "index.html": "/RecomSystemMetrics-TS/index.html",
+    "main.82e818c1.css.map": "/RecomSystemMetrics-TS/static/css/main.82e818c1.css.map",
+    "main.5d325811.js.map": "/RecomSystemMetrics-TS/static/js/main.5d325811.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82e818c1.css",
+    "static/js/main.5d325811.js"
+  ]
+}
